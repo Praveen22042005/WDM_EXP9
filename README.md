@@ -1,5 +1,3 @@
-## NAME : NAVEEN KUMAR T
-## REG NO : 212222100036
 ### EX9 Preprocessing on Twitter Data using Rapidminer
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
